@@ -1,0 +1,27 @@
+---
+title: "Piyush Panigrahi"
+---
+
+::: columns
+::: {.column width="70%"}
+I am a Consultant at the [World Bank Development Research Group](https://www.worldbank.org/en/about/unit/unit-dec#4) and a Research Affiliate of the [CESifo Network](https://www.cesifo.org/en). I received my Ph.D. in Economics from [University of California, Berkeley](https://www.econ.berkeley.edu/) in May 2021. You can find my [CV](CV_PiyushPanigrahi.pdf) here. I can be reached at [piyushp\@berkeley.edu](mailto:piyushp@berkeley.edu) or [ppanigrahi\@worldbank.org](mailto:ppanigrahi@worldbank.org).
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+![](headshot.jpg){.rounded}
+:::
+:::
+
+## Research
+
+#### [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)
+
+(with Banu Demir and Beata Javorcik)
+
+#### [Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)
+
+#### [Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)

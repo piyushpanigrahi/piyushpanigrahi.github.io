@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Piyush Panigrahi"
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: false
+
+editor: visual
+
