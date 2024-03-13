@@ -18,10 +18,11 @@ I am a Consultant at the [World Bank Development Research Group](https://www.wor
 
 ## Research
 
-#### [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)
+##### [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)
 
 (with Banu Demir and Beata Javorcik)
 
-#### [Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)
+##### [Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)
 
-#### [Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)
+
+##### [Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)
