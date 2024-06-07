@@ -66,35 +66,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -110,46 +81,41 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Piyush Panigrahi</h1>
-</div>
 
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
 
 
 <div class="columns">
-<div class="column" style="width:50%;">
-<p>I am an Economist in the Economics and Market Research Department at the <a href="https://www.ifc.org/">International Finance Corporation</a> and a Research Affiliate of the <a href="https://www.cesifo.org/en">CESifo Network</a>. I received my Ph.D.&nbsp;in Economics from <a href="https://www.econ.berkeley.edu/">University of California, Berkeley</a> in May 2021. I can be reached at <a href="mailto:piyushp@berkeley.edu">piyushp@berkeley.edu</a> or <a href="mailto:ppanigrahi@worldbank.org">ppanigrahi@worldbank.org</a>.</p>
-</div><div class="column" style="width:25%;">
-<!-- empty column to create gap -->
-</div><div class="column text-center" style="width:25%;">
-<p><img src="headshot.jpg" class="rounded img-fluid"></p>
-<p><a href="CV_PiyushPanigrahi.pdf">CV</a> <span class="math inline">\(\cdot\)</span> <a href="mailto:ppanigrahi@worldbank.org">Email</a> <span class="math inline">\(\cdot\)</span> <a href="https://twitter.com/PiyushPP_">Twitter</a> <span class="math inline">\(\cdot\)</span> <a href="https://www.linkedin.com/in/piyushpanigrahi/">LinkedIn</a> <span class="math inline">\(\cdot\)</span> <a href="https://github.com/piyushpanigrahi">GitHub</a> <span class="math inline">\(\cdot\)</span> <a href="https://scholar.google.com/citations?user=oKXKw5QAAAAJ">Google Scholar</a></p>
-</div>
-</div>
-<section id="research" class="level2">
-<h2 class="anchored" data-anchor-id="research">Research</h2>
-<ul>
-<li><p><a href="FibreInternet_DJP.pdf">Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?</a><br>
-(with Banu Demir and Beata Javorcik)</p></li>
-<li><p><a href="JMP_PiyushPanigrahi.pdf">Endogenous Spatial Production Networks: Quantitative Implications for Trade &amp; Productivity</a></p></li>
-<li><p><a href="TriadTrade_PiyushPanigrahi.pdf">Triad Trade and Small Worlds of Large Spatial Production Networks</a></p></li>
-</ul>
-
-
+<div class="column" style="width:35%;">
+<p><img src="headshot.jpg" class="img-fluid" style="width:60.0%"><br>
+</p>
+<section id="piyush-panigrahi" class="level3">
+<h3 class="anchored" data-anchor-id="piyush-panigrahi">Piyush Panigrahi</h3>
+<p>Economist<br>
+Economics &amp; Market Research<br>
+IFC (World Bank Group)<br>
+</p>
+<p><a href="CV_PiyushPanigrahi.pdf">CV</a><br>
+</p>
+<p><a href="mailto:ppanigrahi@worldbank.org">ppanigrahi@worldbank.org</a><br>
+</p>
 </section>
+</div><div class="column" style="width:5%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<section id="research" class="level3">
+<h3 class="anchored" data-anchor-id="research">Research</h3>
+<p><a href="FibreInternet_DJP.pdf">Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?</a><br>
+(with Banu Demir and Beata Javorcik)<br>
+</p>
+<p><a href="JMP_PiyushPanigrahi.pdf">Endogenous Spatial Production Networks: Quantitative Implications for Trade &amp; Productivity</a><br>
+</p>
+<p><a href="TriadTrade_PiyushPanigrahi.pdf">Triad Trade and Small Worlds of Large Spatial Production Networks</a><br>
+</p>
+</section>
+</div>
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
