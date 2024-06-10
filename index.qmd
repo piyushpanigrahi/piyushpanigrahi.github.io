@@ -1,20 +1,16 @@
-:::: {.columns}
-
+::: columns
 ::: {.column width="35%"}
-![](headshot.jpg){width=60%}\
+![](headshot.jpg){width="60%"}\
 
 ### Piyush Panigrahi
 
 Economist\
-Economics \& Market Research\
+Economics & Market Research\
 IFC (World Bank Group)\
-
 
 [CV](CV_PiyushPanigrahi.pdf)\
 
-
-[ppanigrahi\@worldbank.org](mailto:ppanigrahi@worldbank.org)\
-
+[ppanigrahi\@ifc.org](mailto:ppanigrahi@ifc.org)\
 :::
 
 ::: {.column width="5%"}
@@ -25,13 +21,10 @@ IFC (World Bank Group)\
 ### Research
 
 [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)\
-    (with Banu Demir and Beata Javorcik)\
+(with Banu Demir and Beata Javorcik)\
 
 [Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)\
 
 [Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)\
-
 :::
-
-::::
-
+:::
