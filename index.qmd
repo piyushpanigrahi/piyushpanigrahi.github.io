@@ -1,23 +1,22 @@
-::: columns
-::: {.column width="35%"}
-![](headshot.jpg){width="60%"}\
+---
+title: "Piyush Panigrahi"
+image: headshot.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+---
 
-### Piyush Panigrahi
+::: {#hero-heading}
 
-Economist\
-Economics & Market Research\
-IFC (World Bank Group)\
+I am an economist in the Economic Research Unit at the International Finance Corporation (World Bank Group).
 
-[CV](CV_PiyushPanigrahi.pdf)\
+My research interest lies at the intersection of international trade, spatial economics, production networks, and firm dynamics.
 
-[ppanigrahi\@ifc.org](mailto:ppanigrahi@ifc.org)\
-:::
+You can find my [CV](CV_PiyushPanigrahi.pdf) here.
 
-::: {.column width="5%"}
-<!-- empty column to create gap -->
-:::
+Contact: [ppanigrahi@ifc.org](mailto:ppanigrahi@ifc.org)
 
-::: {.column width="60%"}
 ### Research
 
 [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)\
@@ -26,5 +25,7 @@ IFC (World Bank Group)\
 [Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)\
 
 [Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)\
+
+
 :::
-:::
+

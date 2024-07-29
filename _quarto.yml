@@ -3,13 +3,19 @@ project:
   output-dir: docs
 
 website:
+  page-navigation: false
   title: "Piyush Panigrahi"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Piyush Panigrahi"
+    right: "This page is built with [Quarto](https://quarto.org/)."
+
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: false
 
-editor: visual
+
 

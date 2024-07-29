@@ -32,7 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -84,26 +83,25 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="columns">
-<div class="column" style="width:35%;">
-<p><img src="headshot.jpg" class="img-fluid" style="width:60.0%"><br>
-</p>
-<section id="piyush-panigrahi" class="level3">
-<h3 class="anchored" data-anchor-id="piyush-panigrahi">Piyush Panigrahi</h3>
-<p>Economist<br>
-Economics &amp; Market Research<br>
-IFC (World Bank Group)<br>
-</p>
-<p><a href="CV_PiyushPanigrahi.pdf">CV</a><br>
-</p>
-<p><a href="mailto:ppanigrahi@ifc.org">ppanigrahi@ifc.org</a><br>
-</p>
-</section>
-</div><div class="column" style="width:5%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:60%;">
+<div class="quarto-about-trestles content">
+  <div class="about-entity">
+    <img src="headshot.jpg" class="about-image
+  round " style="height: 20em; width: 20em;">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Piyush Panigrahi</h1>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header>
+  </div>
+  <div class="about-contents"><div id="hero-heading">
+<p>I am an economist in the Economic Research Unit at the International Finance Corporation (World Bank Group).</p>
+<p>My research interest lies at the intersection of international trade, spatial economics, production networks, and firm dynamics.</p>
+<p>You can find my <a href="CV_PiyushPanigrahi.pdf">CV</a> here.</p>
+<p>Contact: <a href="mailto:ppanigrahi@ifc.org">ppanigrahi@ifc.org</a></p>
 <section id="research" class="level3">
-<h3 class="anchored" data-anchor-id="research">Research</h3>
+<h3 data-anchor-id="research">Research</h3>
 <p><a href="FibreInternet_DJP.pdf">Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?</a><br>
 (with Banu Demir and Beata Javorcik)<br>
 </p>
@@ -112,8 +110,10 @@ IFC (World Bank Group)<br>
 <p><a href="TriadTrade_PiyushPanigrahi.pdf">Triad Trade and Small Worlds of Large Spatial Production Networks</a><br>
 </p>
 </section>
+</div></div>
 </div>
-</div>
+
+
 
 
 
@@ -138,13 +138,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -506,6 +499,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Copyright 2024, Piyush Panigrahi</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
 
 
 
