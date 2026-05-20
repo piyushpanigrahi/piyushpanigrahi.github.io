@@ -1,1 +1,29 @@
 /* css styles */
+
+.paper-entry {
+	margin-bottom: 1.75rem;
+}
+
+.paper-entry p {
+	margin-bottom: 0.35rem;
+}
+
+.paper-abstract {
+	margin-top: 0.35rem;
+}
+
+.paper-abstract summary {
+	cursor: pointer;
+	color: #6b6b6b;
+	font-size: 0.85rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.paper-abstract[open] summary {
+	margin-bottom: 0.5rem;
+}
+
+.paper-abstract p {
+	margin-bottom: 0;
+}

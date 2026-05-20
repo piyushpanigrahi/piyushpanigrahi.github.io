@@ -17,14 +17,47 @@ You can find my [CV](CV_PiyushPanigrahi.pdf) here.
 
 Contact: [ppanigrahi@ifc.org](mailto:ppanigrahi@ifc.org)
 
-### Research
+### Working Papers
 
+::: {.paper-entry}
 [Breaking Invisible Barriers: Does Fast Internet Improve Access to Input Markets?](FibreInternet_DJP.pdf)\
-(with Banu Demir and Beata Javorcik)\
+(with Banu Demir and Beata Javorcik)
 
-[Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)\
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<p>Why is aggregate productivity lower in developing countries? This paper argues that a key part of the answer lies in information frictions that distort domestic production networks and hinder efficient supplier matching. It uses theory and empirics to study how such frictions constrain firm-to-firm trade and distinguishes two channels through which they operate: <em>communication frictions</em>, the cost of transmitting known information, and <em>information acquisition frictions</em>, the cost of discovering and evaluating suppliers. Combining firm-to-firm transaction data from T&uuml;rkiye with rollout of fiber-optic cable, instrumented by proximity to a pre-existing infrastructure, we show that improved connectivity reshapes production networks along two margins: firms reallocate input purchases toward better-connected provinces and diversify their supplier base within those provinces. We develop and estimate a spatial model with endogenous production networks in which communication cost reductions drive reallocation across origins and information cost reductions broaden firms' supplier sets. Counterfactuals show that easing these frictions through fiber expansion generates sizeable welfare gains, highlighting the quantitative importance of information frictions for aggregate productivity.</p>
+</details>
+:::
 
-[Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)\
+::: {.paper-entry}
+[Endogenous Spatial Production Networks: Quantitative Implications for Trade & Productivity](JMP_PiyushPanigrahi.pdf)
+
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<p>This paper develops a quantitative model of endogenous production network formation between spatially distant firms. The model is tractable even for very large numbers of firms, that is, it delivers closed-form predictions for firm-to-firm trade, it can be estimated via maximum likelihood, and it can be used for firm-level counterfactual analysis. I exploit novel micro-data on Indian firm-to-firm production networks for estimation. The estimated model implies that upon market integration across Indian states, over half of the variation in changes in firms' sales to other firms can be explained by endogenous changes in network structure.</p>
+</details>
+:::
+
+::: {.paper-entry}
+[Triad Trade and Small Worlds of Large Spatial Production Networks](TriadTrade_PiyushPanigrahi.pdf)
+
+<details class="paper-abstract">
+<summary>Abstract</summary>
+<p>Do firms' production network contacts (suppliers, customers) help form connections with newer suppliers or customers? If they did, one would observe transitive triads - a group of three firms all trading with each other - in production networks. Using rich administrative data on firm-to-firm linkages from India, I provide first evidence that triads are excessively prevalent in firm-to-firm production networks. Further, I find that proximity through the production network is an important determinant of trade frictions. I develop a quantitative general equilibrium model of network formation between spatially distant firms. The model lends to elegant aggregation and features endogenous trade frictions unlike standard trade models. The estimated model implies that network proximity explains a dominant majority of trade frictions.</p>
+</details>
+:::
+
+### Selected Work in Progress
+
+::: {.paper-entry}
+What's in a Name? Implications of Extensive Margin Mismeasurement in International Trade\
+(with Ana Fernandes, Devaki Ghose, and Alejandro Forero)
+:::
+
+::: {.paper-entry}
+Extreme Shocks in Global Production Networks\
+(with Chiara Criscuolo and Davide Luzzati)
+:::
 
 
 :::
